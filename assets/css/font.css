@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+@font-face {
+    font-family: 'CognacRum';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Cognac Rum'), url('../font/CognacC.woff') format('woff');
+}
+@font-face {
+    font-family: 'StayPixel';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Stay Pixel'), url('../font/StayPixelRegular.woff') format('woff');
+}
+@font-face {
+    font-family: 'PixieDust';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Pixie Dust'), url('../font/AmbulancePixieDust.woff') format('woff');
+}
+@font-face {
+    font-family: 'ElfBoy';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Elf Boy Classic'), url('../font/Elfboyclassic.woff') format('woff');
+}
